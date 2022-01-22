@@ -1,0 +1,26 @@
+{
+    "username" : "Your_username",
+    "password" : "Your_password",
+    "total_contest" : [
+        {
+            "c_name" : "temp1",
+            "s_date": "01/01/2022",
+            "s_time": "00:00",
+            "noEndTime" : false,
+            "e_date": "02/02/2022",
+            "e_time": "01:45",
+            "organization_type":"Company",
+            "organization_name":"Facebook",
+            "mod" : ["sikandsandhu_ss","sikandsamarth"]
+        },
+        {
+            "c_name" : "temp2",
+            "s_date": "03/02/2022",
+            "s_time": "00:00",
+            "noEndTime" : true,
+            "organization_type":"Bootcamp",
+            "organization_name":"rand2",
+            "mod" : []
+        }
+    ]
+}
